@@ -1,5 +1,6 @@
-maven-base  
+maven-study  
 ===============
+<<<<<<< HEAD
 maven 基础学习
 
 ## 生成项目命令：
@@ -206,3 +207,6 @@ maven 基础学习
 					</plugin>
 				</plugins>
 			</build>
+=======
+maven 学习
+>>>>>>> 996df8e3311823c9a210c3ea523fac10435707de
