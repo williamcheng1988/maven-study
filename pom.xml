@@ -15,6 +15,7 @@
   </properties>
 
   <modules>
+    <module>maven-base</module>
     <module>maven-webdemo</module>
   </modules>
 </project>
