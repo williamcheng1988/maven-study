@@ -1,6 +1,6 @@
 maven-base  
 ===============
-maven基础学习
+maven 基础学习
 
 ## 生成项目命令：
 1. `mvn archetype:generate`  ![](doc/img/mvn_archetype_generate.png)
