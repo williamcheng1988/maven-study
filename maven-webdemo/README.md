@@ -10,6 +10,7 @@ maven-webdemo
 	![](doc/img/artifactId.png)
 3. 录入项目坐标信息 
 	![](doc/img/info.png)
+4. 生成成功(mvn archetype:generate -DarchetypeArtifactId=maven-archetype-webapp -DgroupId=com.william.maven.webdemo -DartifactId=maven-webdemo -DpackageName=com.william.maven.webdemo.model -Dversion=0.0.1-SNAPSHOT)
 
 
 
