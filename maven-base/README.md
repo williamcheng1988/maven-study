@@ -6,6 +6,7 @@ maven 基础学习
 1. `mvn archetype:generate`  ![](doc/img/mvn_archetype_generate.png)
 2. 选择项目使用的artifactId，此处默认831，即简单项目  ![](doc/img/artifactId.png)
 3. 录入项目坐标信息 ![](doc/img/info.png)
+4. 生成成功 (mvn archetype:generate -DgroupId=com.william.maven.base -DartifactId=maven-base -DpackageName=com.william.maven.base.model -Dversion=0.0.1-SNAPSHOT)
 
 
 
