@@ -4,13 +4,15 @@ maven-webdemo
 
 
 ## 生成项目命令：
-1. `mvn archetype:generate`
+	一次性命令：mvn archetype:generate -DarchetypeArtifactId=maven-archetype-webapp -DgroupId=com.william.maven.webdemo -DartifactId=maven-webdemo -DpackageName=com.william.maven.webdemo.model -Dversion=0.0.1-SNAPSHOT
+
+1. 输入生成命令：`mvn archetype:generate`
 	![](doc/img/mvn_archetype_generate.png)
-2. 选择项目使用的artifactId，此处输入**831**，即maven-archetype-webapp  
+2. 选择项目使用的artifactId，此处输入**834**，即maven-archetype-webapp  
 	![](doc/img/artifactId.png)
 3. 录入项目坐标信息 
 	![](doc/img/info.png)
-4. 生成成功(mvn archetype:generate -DarchetypeArtifactId=maven-archetype-webapp -DgroupId=com.william.maven.webdemo -DartifactId=maven-webdemo -DpackageName=com.william.maven.webdemo.model -Dversion=0.0.1-SNAPSHOT)
+4. 生成成功
 
 
 
